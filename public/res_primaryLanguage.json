@@ -13,105 +13,101 @@
       {
         "title": "Petome",
         "startDate": "2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one!",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/amandadr/petome",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-rails-plain",
+            "name": "Ruby on Rails"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "PhotoLabs",
+        "startDate": "2023",
+        "description": "My first SPA using React which mimics a very simple Instagram. I learned a lot about React state and using components to create a clean, simple interface using modals. I also learned a lot about the importance of planning and wireframing before diving into code, and even experienced my first love-hate relationship with a button.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/amandadr/photolabs",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-nodejs-plain",
+            "name": "Express"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "DevvyDuckQuacks(DDQ)",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on during my diploma. I had to work with a teammate to build a functioning resource wall (ie Pinterest) under a timecrunch deadline of one week. I've learned a lot about communicating since then!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/amandadr/midterm-project",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-sass-plain",
+            "name": "SASS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Lighthouse Labs",
+        "title": "Student - Full-Stack Developer",
+        "years": "09.2023 - 12.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
+          "Ruby",
+          "HTML",
+          "CSS",
+          "jQuery",
+          "PostgreSQL",
+          "Git",
+          "Cypress",
+          "Mocha",
+          "Chai",
+          "Jest",
+          "RSpec",
+          "Node.js",
+          "Express",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "SASS",
+          "Ruby on Rails",
+          "EJS"
         ]
       }
     ]
