@@ -27,6 +27,11 @@
           "name": "email",
           "url": "mailto: amandadroy@gmail.com",
           "class": "fas fa-envelope"
+        },
+        {
+          "name": "resume",
+          "url": "https://flowcv.com/resume/38jst2hvj5",
+          "class": "fas fa-file-alt"
         }
       ],
       "image": "myProfile.jpg"
