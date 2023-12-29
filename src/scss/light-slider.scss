@@ -118,10 +118,10 @@ $content-background-color: #D7CAAA;
     justify-content: center;
     > img,
     > video {
-      width: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
+      justify-content: center;
+      max-width: 100%;
+      height: 100%;
+      object-fit: contain;
     }
   }
   &__controls {
