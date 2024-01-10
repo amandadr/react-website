@@ -11,13 +11,32 @@
     },
     "projects": [
       {
+        "title": "Hyrule Compendium",
+        "startDate": "2024",
+        "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild using a public API. My first time building an app dedicated to displaying data from an API - time to have fun with React!",
+        "images": [
+          "images/portfolio/hyrule/p1.jpg"
+        ],
+        "url": "https://github.com/amandadr/hyrule-compendium",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "MUI"
+          }
+        ]
+      },
+      {
         "title": "Petome",
         "startDate": "2023",
         "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg",
-          "images/portfolio/animal-shelter/p3.jpg"
+          "images/portfolio/petome/p1.jpg",
+          "images/portfolio/petome/p2.jpg",
+          "images/portfolio/petome/p3.jpg"
         ],
         "url": "https://github.com/amandadr/petome",
         "technologies": [
@@ -40,9 +59,9 @@
         "startDate": "2023",
         "description": "My first SPA using React which mimics a very simple Instagram. I learned a lot about React state and using components to create a clean, simple interface using modals. I also learned a lot about the importance of planning and wireframing before diving into code, and even experienced my first love-hate relationship with a button.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg",
-          "images/portfolio/photography/p3.jpg"
+          "images/portfolio/photoLabs/p1.jpg",
+          "images/portfolio/photoLabs/p2.jpg",
+          "images/portfolio/photoLabs/p3.jpg"
         ],
         "url": "https://github.com/amandadr/photolabs",
         "technologies": [
@@ -61,9 +80,9 @@
         "startDate": "2023",
         "description": "One of the first apps I was working on during my diploma. I had to work with a teammate to build a functioning resource wall (ie Pinterest) under a timecrunch deadline of one week. I've learned a lot about communicating since then!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg",
-          "images/portfolio/adventure/p3.jpg"
+          "images/portfolio/DDQ/p1.jpg",
+          "images/portfolio/DDQ/p2.jpg",
+          "images/portfolio/DDQ/p3.jpg"
         ],
         "url": "https://github.com/amandadr/midterm-project",
         "technologies": [
@@ -91,7 +110,6 @@
           "JavaScript"
         ],
         "technologies": [
-          "REST API",
           "JavaScript",
           "Ruby",
           "HTML",
@@ -110,7 +128,24 @@
           "Bootstrap",
           "SASS",
           "Ruby on Rails",
-          "EJS"
+          "RESTful API"
+        ]
+      },
+      {
+        "company": "Scale AI",
+        "title": "Machine Learning Programmer",
+        "years": "2024 - Present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Ruby",
+          "Java",
+          "Python",
+          "HTML",
+          "CSS",
+          "jQuery"
         ]
       }
     ]
