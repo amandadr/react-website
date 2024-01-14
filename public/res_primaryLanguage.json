@@ -1,152 +1,146 @@
 {
-    "basic_info": {
-      "description_header": "Hey",
-      "description": "👋 I'm Amanda Roy. I'm breaking into the tech industry with a passion for front-end web development and coding beautiful user interfaces. 💻 My dream has always been to live in harmony: remain entirely obssessed with an ever-building career full of learning 👨‍💻 while maintaining a peaceful hobby farm in the Nova Scotia forest 🌲🌳🌲 Developing has become a great love very quickly :)",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hey",
+    "description": "👋 I'm Amanda Roy. I'm breaking into the tech industry with a passion for front-end web development and coding beautiful user interfaces. 💻 My dream has always been to live in harmony: remain entirely obssessed with an ever-building career full of learning 👨‍💻 while maintaining a peaceful hobby farm in the Nova Scotia forest 🌲🌳🌲 Developing has become a great love very quickly :)",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Hyrule Compendium",
+      "startDate": "2024",
+      "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild using a public API. My first time building an app dedicated to displaying data from an API - time to have fun with React!",
+      "images": ["images/portfolio/hyrule/p1.jpg"],
+      "url": "http://hyrule-comp.amandadroy.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MUI"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Hyrule Compendium",
-        "startDate": "2024",
-        "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild using a public API. My first time building an app dedicated to displaying data from an API - time to have fun with React!",
-        "images": [
-          "images/portfolio/hyrule/p1.jpg"
-        ],
-        "url": "https://github.com/amandadr/hyrule-compendium",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-materialui-plain",
-            "name": "MUI"
-          }
-        ]
-      },
-      {
-        "title": "Petome",
-        "startDate": "2023",
-        "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one!",
-        "images": [
-          "images/portfolio/petome/p1.jpg",
-          "images/portfolio/petome/p2.jpg",
-          "images/portfolio/petome/p3.jpg"
-        ],
-        "url": "https://github.com/amandadr/petome",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-rails-plain",
-            "name": "Ruby on Rails"
-          },
-          {
-            "class": "devicon-postgresql-plain",
-            "name": "PostgreSQL"
-          }
-        ]
-      },
-      {
-        "title": "PhotoLabs",
-        "startDate": "2023",
-        "description": "My first SPA using React which mimics a very simple Instagram. I learned a lot about React state and using components to create a clean, simple interface using modals. I also learned a lot about the importance of planning and wireframing before diving into code, and even experienced my first love-hate relationship with a button.",
-        "images": [
-          "images/portfolio/photoLabs/p1.jpg",
-          "images/portfolio/photoLabs/p2.jpg",
-          "images/portfolio/photoLabs/p3.jpg"
-        ],
-        "url": "https://github.com/amandadr/photolabs",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Express"
-          }
-        ]
-      },
-      {
-        "title": "DevvyDuckQuacks(DDQ)",
-        "startDate": "2023",
-        "description": "One of the first apps I was working on during my diploma. I had to work with a teammate to build a functioning resource wall (ie Pinterest) under a timecrunch deadline of one week. I've learned a lot about communicating since then!",
-        "images": [
-          "images/portfolio/DDQ/p1.jpg",
-          "images/portfolio/DDQ/p2.jpg",
-          "images/portfolio/DDQ/p3.jpg"
-        ],
-        "url": "https://github.com/amandadr/midterm-project",
-        "technologies": [
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.js"
-          },
-          {
-            "class": "devicon-sass-plain",
-            "name": "SASS"
-          },
-          {
-            "class": "devicon-postgresql-plain",
-            "name": "PostgreSQL"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Lighthouse Labs",
-        "title": "Student - Full-Stack Developer",
-        "years": "09.2023 - 12.2023",
-        "mainTech": [
-          "JavaScript"
-        ],
-        "technologies": [
-          "JavaScript",
-          "Ruby",
-          "HTML",
-          "CSS",
-          "jQuery",
-          "PostgreSQL",
-          "Git",
-          "Cypress",
-          "Mocha",
-          "Chai",
-          "Jest",
-          "RSpec",
-          "Node.js",
-          "Express",
-          "React",
-          "Bootstrap",
-          "SASS",
-          "Ruby on Rails",
-          "RESTful API"
-        ]
-      },
-      {
-        "company": "Scale AI",
-        "title": "Machine Learning Programmer",
-        "years": "2024 - Present",
-        "mainTech": [
-          "JavaScript"
-        ],
-        "technologies": [
-          "JavaScript",
-          "Ruby",
-          "Java",
-          "Python",
-          "HTML",
-          "CSS",
-          "jQuery"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Petome",
+      "startDate": "2023",
+      "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one!",
+      "images": [
+        "images/portfolio/petome/p1.jpg",
+        "images/portfolio/petome/p2.jpg",
+        "images/portfolio/petome/p3.jpg"
+      ],
+      "url": "https://github.com/amandadr/petome",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Ruby on Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "PhotoLabs",
+      "startDate": "2023",
+      "description": "My first SPA using React which mimics a very simple Instagram. I learned a lot about React state and using components to create a clean, simple interface using modals. I also learned a lot about the importance of planning and wireframing before diving into code, and even experienced my first love-hate relationship with a button.",
+      "images": [
+        "images/portfolio/photoLabs/p1.jpg",
+        "images/portfolio/photoLabs/p2.jpg",
+        "images/portfolio/photoLabs/p3.jpg"
+      ],
+      "url": "https://github.com/amandadr/photolabs",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Express"
+        }
+      ]
+    },
+    {
+      "title": "DevvyDuckQuacks(DDQ)",
+      "startDate": "2023",
+      "description": "One of the first apps I was working on during my diploma. I had to work with a teammate to build a functioning resource wall (ie Pinterest) under a timecrunch deadline of one week. I've learned a lot about communicating since then!",
+      "images": [
+        "images/portfolio/DDQ/p1.jpg",
+        "images/portfolio/DDQ/p2.jpg",
+        "images/portfolio/DDQ/p3.jpg"
+      ],
+      "url": "https://github.com/amandadr/midterm-project",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SASS"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Lighthouse Labs",
+      "title": "Student - Full-Stack Developer",
+      "years": "09.2023 - 12.2023",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "JavaScript",
+        "Ruby",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "PostgreSQL",
+        "Git",
+        "Cypress",
+        "Mocha",
+        "Chai",
+        "Jest",
+        "RSpec",
+        "Node.js",
+        "Express",
+        "React",
+        "Bootstrap",
+        "SASS",
+        "Ruby on Rails",
+        "RESTful API"
+      ]
+    },
+    {
+      "company": "Scale AI",
+      "title": "Machine Learning Programmer",
+      "years": "2024 - Present",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "JavaScript",
+        "Ruby",
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "jQuery"
+      ]
+    }
+  ]
+}
