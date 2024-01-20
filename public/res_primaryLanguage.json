@@ -13,9 +13,9 @@
     {
       "title": "Hyrule Compendium",
       "startDate": "2024",
-      "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild using a public API. My first time building an app dedicated to displaying data from an API - time to have fun with React!",
+      "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild using a public API. My first time building an app dedicated to displaying data from an API - time to have fun with React! (Live Demo in link)",
       "images": ["images/portfolio/hyrule/p1.jpg"],
-      "url": "http://hyrule-comp.amandadroy.com/",
+      "url": "https://hyrule-comp.amandadroy.com/",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -24,19 +24,23 @@
         {
           "class": "devicon-materialui-plain",
           "name": "MUI"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SASS"
         }
       ]
     },
     {
       "title": "Petome",
       "startDate": "2023",
-      "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one!",
+      "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one! (Live Demo in link)",
       "images": [
         "images/portfolio/petome/p1.jpg",
         "images/portfolio/petome/p2.jpg",
         "images/portfolio/petome/p3.jpg"
       ],
-      "url": "https://github.com/amandadr/petome",
+      "url": "https://petome.amandadroy.com/",
       "technologies": [
         {
           "class": "devicon-react-plain",
