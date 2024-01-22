@@ -105,6 +105,37 @@
   ],
   "experience": [
     {
+      "company": "Data Annotation Tech",
+      "title": "Machine Learning Developer",
+      "years": "01.2024 - Present",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "JavaScript",
+        "Ruby",
+        "SQL",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "company": "Scale AI",
+      "title": "Machine Learning Programmer",
+      "years": "01.2024 - Present",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "JavaScript",
+        "Ruby",
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "jQuery"
+      ]
+    },
+    {
       "company": "Lighthouse Labs",
       "title": "Student - Full-Stack Developer",
       "years": "09.2023 - 12.2023",
@@ -129,21 +160,6 @@
         "SASS",
         "Ruby on Rails",
         "RESTful API"
-      ]
-    },
-    {
-      "company": "Scale AI",
-      "title": "Machine Learning Programmer",
-      "years": "2024 - Present",
-      "mainTech": ["JavaScript"],
-      "technologies": [
-        "JavaScript",
-        "Ruby",
-        "Java",
-        "Python",
-        "HTML",
-        "CSS",
-        "jQuery"
       ]
     }
   ]
