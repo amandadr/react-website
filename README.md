@@ -1,5 +1,7 @@
 <h2>My Professional Portfolio</h2>
 
+Take a little look at my career :)
+
 Find all of my current and past projects in one place!
 <br/>
 I'll update this portfolio with any relevant info as it comes.

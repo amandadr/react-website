@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hey",
-    "description": "👋 I'm Amanda Roy. I'm breaking into the tech industry with a passion for front-end web development and coding beautiful user interfaces. 💻 My dream has always been to live in harmony: remain entirely obssessed with an ever-building career full of learning 👨‍💻 while maintaining a peaceful hobby farm in the Nova Scotia forest 🌲🌳🌲 Developing has become a great love very quickly :)",
+    "description_header": "Hey, and welcome",
+    "description": "👋 I'm Amanda Roy, a tech enthusiast 🚀 diving into everything web development 📚 and crafting stunning user interfaces 💻/📱. Constantly dreaming of a career marked by perpetual learning 👨‍💻 and a serene hobby farm in the Nova Scotia forest 🌲🌳🌲. Dev life? Absolutely loving it! 😊 Let's connect!  -  What I'm up to lately: Learning Python! 🤖",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -13,8 +13,13 @@
     {
       "title": "Hyrule Compendium",
       "startDate": "2024",
-      "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild using a public API. My first time building an app dedicated to displaying data from an API - time to have fun with React! (Live Demo in link)",
-      "images": ["images/portfolio/hyrule/p1.jpg"],
+      "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild. This is my first time building an app dedicated to displaying data from a publically hosted API - time to have fun with React! (Live Demo in link)",
+      "images": [
+        "images/portfolio/hyrule/p1.jpg",
+        "images/portfolio/hyrule/p2.jpg",
+        "images/portfolio/hyrule/p3.jpg",
+        "images/portfolio/hyrule/p4.jpg"
+      ],
       "url": "https://hyrule-comp.amandadroy.com/",
       "technologies": [
         {

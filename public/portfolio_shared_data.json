@@ -1,88 +1,83 @@
 {
-    "basic_info": {
-      "name": "Amanda Roy",
-      "titles": [ "Full-Stack Developer", "Customer Service Veteran" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/amandadr",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/amandadroy/",
-          "class": "fab fa-linkedin"
-        },
-        {
-          "name": "discord",
-          "url": "https://discordapp.com/users/amandadr",
-          "class": "fab fa-discord"
-        },
-        {
-          "name": "medium",
-          "url": "https://medium.com/@amandadroy",
-          "class": "fab fa-medium"
-        },
-        {
-          "name": "email",
-          "url": "mailto: amandadroy@gmail.com",
-          "class": "fas fa-envelope"
-        },
-        {
-          "name": "resume",
-          "url": "https://flowcv.com/resume/38jst2hvj5",
-          "class": "fas fa-file-alt"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "Ruby",
-          "class": "devicon-ruby-plain",
-          "level": "65"
-        },
-        {
-          "name": "PostgreSQL",
-          "class": "devicon-postgresql-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Amanda Roy",
+    "titles": ["Full-Stack Developer", "Customer Service Veteran"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/amandadr",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amandadroy/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "discord",
+        "url": "https://discordapp.com/users/amandadr",
+        "class": "fab fa-discord"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@amandadroy",
+        "class": "fab fa-medium"
+      },
+      {
+        "name": "email",
+        "url": "mailto: amandadroy@gmail.com",
+        "class": "fas fa-envelope"
+      },
+      {
+        "name": "resume",
+        "url": "https://flowcv.com/resume/38jst2hvj5",
+        "class": "fas fa-file-alt"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "90"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Ruby",
+        "class": "devicon-ruby-plain",
+        "level": "65"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      }
+    ]
   }
+}
