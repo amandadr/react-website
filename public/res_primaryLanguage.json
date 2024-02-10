@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hey, and welcome",
-    "description": "👋 I'm Amanda Roy, a tech enthusiast 🚀 diving into everything web development 📚 and crafting stunning user interfaces 💻/📱. Constantly dreaming of a career marked by perpetual learning 👨‍💻 and a serene hobby farm in the Nova Scotia forest 🌲🌳🌲. Dev life? Absolutely loving it! 😊 Let's connect!  -  What I'm up to lately: Learning Python! 🤖",
+    "description": "👋 I'm Amanda Roy, a tech enthusiast diving into everything web development 💻📚 by crafting stunning user interfaces 📱. I dream of a career marked by perpetual learning 👨‍💻 and a serene hobby farm in the Nova Scotia forest 🌲🌳🌲. Let's connect!  -  What I'm up to lately: Learning Python! 🤖",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -13,14 +13,14 @@
     {
       "title": "Hyrule Compendium",
       "startDate": "2024",
-      "description": "IN PROGRESS! A SPA which allows the user to browse all of the interactive items found in The Legend of Zelda: Breath of the Wild. This is my first time building an app dedicated to displaying data from a publically hosted API - time to have fun with React! (Live Demo in link)",
+      "description": "A React SPA allows the user to browse interactive items found in The Legend of Zelda: Breath of the Wild. This is my first time building an app dedicated to displaying data from a publically hosted API - this one's going to become a larger project soon! (Live in link)",
       "images": [
         "images/portfolio/hyrule/p1.jpg",
         "images/portfolio/hyrule/p2.jpg",
         "images/portfolio/hyrule/p3.jpg",
         "images/portfolio/hyrule/p4.jpg"
       ],
-      "url": "https://hyrule-comp.amandadroy.com/",
+      "url": "https://hyrule.amandadroy.com/",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -39,7 +39,7 @@
     {
       "title": "Petome",
       "startDate": "2023",
-      "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one! (Live Demo in link)",
+      "description": "The most fun I've had creating a web app (so far). I deepened my understanding of React state and hooks, as well as API calls. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one! (Live in link)",
       "images": [
         "images/portfolio/petome/p1.jpg",
         "images/portfolio/petome/p2.jpg",
