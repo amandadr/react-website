@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hey, and welcome",
-    "description": "👋 I'm Amanda Roy, a tech enthusiast diving into everything web development 💻📚 by crafting stunning user interfaces 📱. I dream of a career marked by perpetual learning 👨‍💻 and a serene hobby farm in the Nova Scotia forest 🌲🌳🌲. Let's connect!  -  What I'm up to lately: Learning Python! 🤖",
+    "description": "👋 I'm Amanda Roy, a tech enthusiast diving into everything web development 💻📚 by crafting stunning user interfaces 📱. I dream of a career marked by perpetual learning 👨‍💻 and a serene hobby farm in the Nova Scotia forest 🌲🌳🌲. Let's connect!  -  What I'm up to lately: Learning Vue! 🤖",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -10,6 +10,56 @@
     }
   },
   "projects": [
+    {
+      "title": "Simple Weather",
+      "startDate": "2024",
+      "description": "The name is apt - a simple weather app that uses the OpenWeatherMap API to display current weather conditions for a given location. This was my first time using Vue, so I set a simple goal of handling data and displaying it in a clean, user-friendly way. I'll edit this app to challenge my HTML/CSS skills in the future. (Live in link)",
+      "images": [
+        "images/portfolio/weather/p1.jpg",
+        "images/portfolio/weather/p2.jpg"
+      ],
+      "url": "https://weather.amandadroy.com/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue 3"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Pyshelf",
+      "startDate": "2024",
+      "description": "An **IN PROGRESS** Python-based web app that utilizes the Google Books API to track reading progress and discover new books. This is my first Python app! I also learned a lot about Flask and SQLAlchemy while building. There are many more features to come! (Live in link)",
+      "images": [
+        "images/portfolio/pyshelf/p1.jpg",
+        "images/portfolio/pyshelf/p2.jpg",
+        "images/portfolio/pyshelf/p3.jpg",
+        "images/portfolio/pyshelf/p4.jpg"
+      ],
+      "url": "https://pyshelf.amandadroy.com/",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-flask-original",
+          "name": "Flask"
+        },
+        {
+          "class": "devicon-sqlalchemy-plain",
+          "name": "SQLAlchemy"
+        }
+      ]
+    },
     {
       "title": "Hyrule Compendium",
       "startDate": "2024",

@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Amanda Roy",
-    "titles": ["Full-Stack Developer", "Customer Service Veteran"],
+    "titles": ["Full-Stack Developer", "Service Pro"],
     "social": [
       {
         "name": "github",
@@ -40,43 +40,59 @@
     "icons": [
       {
         "name": "HTML 5",
-        "class": "devicon-html5-plain",
-        "level": "95"
+        "class": "devicon-html5-plain"
       },
       {
         "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "90"
-      },
-      {
-        "name": "React",
-        "class": "devicon-react-plain",
-        "level": "80"
+        "class": "devicon-css3-plain"
       },
       {
         "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
+        "class": "devicon-javascript-plain"
       },
       {
-        "name": "Sass",
-        "class": "devicon-sass-original",
-        "level": "75"
+        "name": "React",
+        "class": "devicon-react-plain"
       },
       {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "85"
+        "name": "Vue",
+        "class": "devicon-vuejs-plain"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain"
+      },
+      {
+        "name": "Flask",
+        "class": "devicon-flask-original"
       },
       {
         "name": "Ruby",
-        "class": "devicon-ruby-plain",
-        "level": "65"
+        "class": "devicon-ruby-plain"
+      },
+      {
+        "name": "Ruby on Rails",
+        "class": "devicon-rails-plain"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain"
+      },
+      {
+        "name": "MUI",
+        "class": "devicon-materialui-plain"
       },
       {
         "name": "PostgreSQL",
-        "class": "devicon-postgresql-plain",
-        "level": "60"
+        "class": "devicon-postgresql-plain"
+      },
+      {
+        "name": "SQLAlchemy",
+        "class": "devicon-sqlalchemy-plain"
       }
     ]
   }
