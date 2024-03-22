@@ -3,7 +3,6 @@ import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
 import railsIcon from "@iconify/icons-logos/rails";
 
-
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {

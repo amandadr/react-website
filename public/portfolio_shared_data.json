@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Amanda Roy",
-    "titles": ["Full-Stack Developer", "Service Pro"],
+    "titles": ["Full-Stack Developer", "Service Pro", "Front-End Enthusiast"],
     "social": [
       {
         "name": "github",
@@ -81,6 +81,10 @@
       {
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain"
+      },
+      {
+        "name": "Tailwind CSS",
+        "class": "devicon-tailwindcss-plain"
       },
       {
         "name": "MUI",
