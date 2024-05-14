@@ -28,6 +28,8 @@ class Experience extends Component {
             </Badge>
           );
         });
+        let icon = work.mainTech[0].toLowerCase();
+        let iconClassname = icon === "javascript" ? "fab fa-js" : "fab fa-" + icon;
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -37,7 +39,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-js experience-icon"></i>}
+            icon={<i className={iconClassname + " mx-auto experience-icon"} />}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>

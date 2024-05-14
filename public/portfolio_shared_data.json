@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Amanda Roy",
-    "titles": ["Full-Stack Developer", "Service Pro", "Front-End Enthusiast"],
+    "titles": ["Full-Stack Developer", "Junior SEO Specialist", "Automation Engineer"],
     "social": [
       {
         "name": "github",
@@ -39,6 +39,14 @@
   "skills": {
     "icons": [
       {
+        "name": "Google Cloud",
+        "class": "devicon-googlecloud-plain"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain"
+      },
+      {
         "name": "HTML 5",
         "class": "devicon-html5-plain"
       },
@@ -61,6 +69,10 @@
       {
         "name": "Python",
         "class": "devicon-python-plain"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain"
       },
       {
         "name": "Flask",
