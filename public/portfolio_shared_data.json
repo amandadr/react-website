@@ -30,7 +30,7 @@
       },
       {
         "name": "resume",
-        "url": "https://flowcv.com/resume/38jst2hvj5",
+        "url": "https://resume.amandadroy.com/",
         "class": "fas fa-file-alt"
       }
     ],
@@ -47,6 +47,10 @@
         "class": "devicon-amazonwebservices-plain"
       },
       {
+        "name": "Docker",
+        "class": "devicon-docker-plain"
+      },
+      {
         "name": "HTML 5",
         "class": "devicon-html5-plain"
       },
@@ -59,12 +63,32 @@
         "class": "devicon-javascript-plain"
       },
       {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain"
+      },
+      {
         "name": "React",
         "class": "devicon-react-plain"
       },
       {
+        "name": "Vite",
+        "class": "devicon-vite-plain"
+      },
+      {
         "name": "Vue",
         "class": "devicon-vuejs-plain"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain"
+      },
+      {
+        "name": "Next.js",
+        "class": "devicon-nextjs-plain"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original"
       },
       {
         "name": "Python",
