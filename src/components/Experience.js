@@ -29,7 +29,18 @@ class Experience extends Component {
           );
         });
         let icon = work.mainTech[0].toLowerCase();
-        let iconClassname = icon === "javascript" ? "fab fa-js" : "fab fa-" + icon;
+        let iconClassname;
+        switch (icon) {
+          case "javascript":
+            iconClassname = "fab fa-js";
+            break;
+          case "typescript":
+            iconClassname = "fab fa-ts";
+            break;
+          default:
+            iconClassname = "fab fa-" + icon;
+            break;
+        }
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
