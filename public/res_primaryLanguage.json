@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hey, and welcome",
-    "description": "👋🏼 I'm Amanda, a tech enthusiast who's always up for a new challenge. I've fortified a background in full-stack development, but I'm a lifelong learner with a wide range of interests and uncontrollable curiosity! 😸 My journey has taken me from small-town community engagement and disability services, to whipping up dishes and craft cocktails in food trucks and fancy restaurants, to organizing the quiet corners of university libraries and sweating bullets in a sawdust-filled woodworking shop - and that's just the tip of the iceberg! 🦄👔💼 Each stop along the way has gifted me a unique set of skills and a deep appreciation for the power of connection and knowledge-sharing 🧐 Through these experiences, I've become passionate about using technology to make a positive impact and bring some simple joy to people's lives, which is why I gravitate toward UI/UX, SEO, and automation development 🤗 When I'm not developing, you'll find me exploring nature, spending time with my loved ones, or enjoying my favourite pastimes ☀️🧭 Whether it's troubleshooting code, nailing a powerlifting form, or grilling up the perfect BBQ - I'm always ready to roll up my sleeves, dive into research, and have fun finding creative, effective solutions! 🧑🏼‍🔬📝 My dream is to build a career in tech that allows me to continue learning and growing to my heart's content while also enjoying the peace and quiet of a hobby farm in Nova Scotia's beautiful forests ☺️🧑🏼‍💻🌲 Interested in connecting? Scroll down to find out how to get in touch! 😊",
+    "description": "👋🏼 I'm Amanda, a tech enthusiast who's always up for a new challenge - these days I'm automating SEO tasks 🤖 I've established a fortified a background in full-stack development, but I'm a lifelong learner with a wide range of interests and uncontrollable curiosity! 😸 My journey has taken me from small-town community engagement and disability services, to whipping up dishes and craft cocktails in food trucks and fancy restaurants, to organizing the quiet corners of university libraries and sweating bullets in a sawdust-filled woodworking shop - and that's just the tip of the iceberg! 🦄👔💼 Each stop along the way has gifted me a unique set of skills and a deep appreciation for the power of connection and knowledge-sharing 🧐 Through these experiences, I've become passionate about using technology to make a positive impact and bring some simple joy to people's lives, which is why I gravitate toward UI/UX, SEO, and automation development 🤗 When I'm not developing, you'll find me exploring nature, spending time with my loved ones, or enjoying my favourite pastimes ☀️🧭 Whether it's troubleshooting code, nailing a powerlifting form, or grilling up the perfect BBQ - I'm always ready to roll up my sleeves, dive into research, and have fun finding creative, effective solutions! 🧑🏼‍🔬📝 My dream is to build a career in tech that allows me to continue learning and growing to my heart's content while also enjoying the peace and quiet of a hobby farm in Nova Scotia's beautiful forests ☺️🧑🏼‍💻🌲 Interested in connecting? Scroll down to find out how to get in touch! 😊",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -218,13 +218,30 @@
       "company": "MacMillan Search",
       "title": "Junior SEO Specialist and Automation Developer",
       "years": "04.2024 - Present",
-      "mainTech": ["Python", "Django", "Google Cloud"],
+      "mainTech": ["TypeScript", "Python", "React", "Django", "Google Cloud Platform", "SEO Tools"],
       "technologies": [
+        "TypeScript",
+        "React",
+        "Vite",
+        "TailwindCSS",
         "Python",
         "Django",
         "PostgreSQL",
-        "Google Cloud",
-        "OpenAI"
+        "Jest",
+        "API Integrations",
+        "Generative AI Integrations",
+        "GCP",
+        "AWS Lambda",
+        "Google Search Console",
+        "Google Analytics",
+        "SurferSEO",
+        "SEMRush",
+        "Ahrefs",
+        "Screaming Frog",
+        "GitHub",
+        "Jira",
+        "Slack",
+        "Zoom"
       ]
     },
     {
