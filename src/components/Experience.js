@@ -30,12 +30,13 @@ class Experience extends Component {
         });
         let icon = work.mainTech[0].toLowerCase();
         let iconClassname;
+        console.log(icon);
         switch (icon) {
           case "javascript":
             iconClassname = "fab fa-js";
             break;
           case "typescript":
-            iconClassname = "fab fa-ts";
+            iconClassname = "fab fa-js";
             break;
           default:
             iconClassname = "fab fa-" + icon;
