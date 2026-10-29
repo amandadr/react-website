@@ -19,7 +19,9 @@
       "startDate": "2026",
       "description": "The current home of the work. mannyroy.com is where I publish, test content systems, and show how I approach technical SEO, automation, and sites a client can own. The repository is the Ghost theme and the information architecture behind that site.",
       "images": [
-        "images/portfolio/mannyroy/p1.jpg"
+        "images/portfolio/mannyroy/p1.jpg",
+        "images/portfolio/mannyroy/p2.jpg",
+        "images/portfolio/mannyroy/p3.jpg"
       ],
       "url": "https://www.mannyroy.com/",
       "technologies": [
@@ -140,7 +142,7 @@
         "images/portfolio/merchant/p2.jpg",
         "images/portfolio/merchant/p3.jpg"
       ],
-      "url": "https://github.com/amandadr/hyrule-merchant",
+      "url": "https://merchant.amandadroy.com/",
       "technologies": [
         {
           "class": "devicon-astro-plain",
