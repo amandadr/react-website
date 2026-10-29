@@ -1,4 +1,4 @@
-# Amanda Roy — Developer Portfolio
+# Manny Roy — Developer Portfolio
 
 This repository contains the source code for [amandadroy.com](https://amandadroy.com), my personal development portfolio.
 

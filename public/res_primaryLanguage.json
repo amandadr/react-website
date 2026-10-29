@@ -44,7 +44,9 @@
       "startDate": "2026",
       "description": "A guide to Eastern Prince Edward Island: communities, places, and a few ways to plan a trip. I built it as a portfolio project, and the site says so. The inquiry form does not send anything.",
       "images": [
-        "images/portfolio/eastward/p1.jpg"
+        "images/portfolio/eastward/p1.jpg",
+        "images/portfolio/eastward/p2.jpg",
+        "images/portfolio/eastward/p3.jpg"
       ],
       "url": "https://eastward.amandadroy.com/",
       "technologies": [
@@ -55,6 +57,35 @@
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "title": "Organized Chaos Arts",
+      "startDate": "2026",
+      "description": "A Next.js and Sanity site for an arts organization I am co-founding. Public pages, a written-down content model, and design tokens, so later membership work has a structure to land in.",
+      "images": [
+        "images/portfolio/oca/p1.jpg",
+        "images/portfolio/oca/p2.jpg",
+        "images/portfolio/oca/p3.jpg"
+      ],
+      "url": "https://organizedchaosarts.ca/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-sanity-plain",
+          "name": "Sanity"
         },
         {
           "class": "devicon-tailwindcss-plain",
@@ -105,35 +136,6 @@
       ]
     },
     {
-      "title": "Organized Chaos Arts",
-      "startDate": "2026",
-      "description": "A Next.js and Sanity site for an arts organization I am co-founding. Public pages, a written-down content model, and design tokens, so later membership work has a structure to land in.",
-      "images": [
-        "images/portfolio/oca/p1.jpg",
-        "images/portfolio/oca/p2.jpg",
-        "images/portfolio/oca/p3.jpg"
-      ],
-      "url": "https://organizedchaosarts.ca/",
-      "technologies": [
-        {
-          "class": "devicon-nextjs-plain",
-          "name": "Next.js"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-sanity-plain",
-          "name": "Sanity"
-        },
-        {
-          "class": "devicon-tailwindcss-plain",
-          "name": "Tailwind CSS"
-        }
-      ]
-    },
-    {
       "title": "Hyrule Merchant",
       "startDate": "2026",
       "description": "A noncommercial Hyrule shop and field guide. A snapshot of the compendium API is validated at build time, and the prices, stock, and recipes I invented stay out of the source data. Nothing is actually for sale, and it is not affiliated with Nintendo.",
@@ -170,28 +172,6 @@
         {
           "class": "devicon-wordpress-plain",
           "name": "WordPress"
-        }
-      ]
-    },
-    {
-      "title": "Portfolio (This Website)",
-      "startDate": "2024",
-      "description": "A personalized React SPA utilizing Bootstrap and JQuery for showing off my achievements and keeping my adoring fans up to date ;) Learning about data modularity was a lot of fun, and taught me the value of thinking modularly from the beginning of a project! (Live: You're here!)",
-      "images": [
-        "images/portfolio/portfolio/p1.jpg"
-      ],
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-jquery-plain",
-          "name": "jQuery"
-        },
-        {
-          "class": "devicon-sass-plain",
-          "name": "SASS"
         }
       ]
     },
