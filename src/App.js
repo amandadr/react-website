@@ -71,7 +71,7 @@ class App extends Component {
       cache: false,
       success: function (data) {
         this.setState({ sharedData: data });
-        document.title = `${this.state.sharedData.basic_info.name}`;
+        document.title = `${data.basic_info.name} | Manny Roy Consulting`;
       }.bind(this),
       error: function (xhr, status, err) {
         alert(err);

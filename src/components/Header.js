@@ -50,8 +50,11 @@ class Header extends Component {
           <div className="col-md-12">
             <div>
               <a
-                href="https://flowcv.com/resume/38jst2hvj5"
+                href="https://www.mannyroy.com/"
                 className="header-icon"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Manny Roy Consulting"
               >
                 <span
                   className="iconify header-icon"

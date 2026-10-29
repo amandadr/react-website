@@ -1,15 +1,205 @@
 {
   "basic_info": {
     "description_header": "Hey, and welcome",
-    "description": "👋🏼 I'm Amanda, a tech enthusiast who's always up for a new challenge - these days I'm automating SEO tasks 🤖 I've established a fortified a background in full-stack development, but I'm a lifelong learner with a wide range of interests and uncontrollable curiosity! 😸 My journey has taken me from small-town community engagement and disability services, to whipping up dishes and craft cocktails in food trucks and fancy restaurants, to organizing the quiet corners of university libraries and sweating bullets in a sawdust-filled woodworking shop - and that's just the tip of the iceberg! 🦄👔💼 Each stop along the way has gifted me a unique set of skills and a deep appreciation for the power of connection and knowledge-sharing 🧐 Through these experiences, I've become passionate about using technology to make a positive impact and bring some simple joy to people's lives, which is why I gravitate toward UI/UX, SEO, and automation development 🤗 When I'm not developing, you'll find me exploring nature, spending time with my loved ones, or enjoying my favourite pastimes ☀️🧭 Whether it's troubleshooting code, nailing a powerlifting form, or grilling up the perfect BBQ - I'm always ready to roll up my sleeves, dive into research, and have fun finding creative, effective solutions! 🧑🏼‍🔬📝 My dream is to build a career in tech that allows me to continue learning and growing to my heart's content while also enjoying the peace and quiet of a hobby farm in Nova Scotia's beautiful forests ☺️🧑🏼‍💻🌲 Interested in connecting? Scroll down to find out how to get in touch! 😊",
+    "description": "I run Manny Roy Consulting from Prince Edward Island. That site is the current picture of the work: technical SEO, content systems, automation, and websites built to be maintained. The projects below are the public record, including earlier apps.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
       "skills": "Skills",
       "experience": "Experience"
+    },
+    "featured": {
+      "label": "Manny Roy Consulting",
+      "url": "https://www.mannyroy.com/"
     }
   },
   "projects": [
+    {
+      "title": "Manny Roy Consulting",
+      "startDate": "2026",
+      "description": "The current home of the work. mannyroy.com is where I publish, test content systems, and show how I approach technical SEO, automation, and sites a client can own. The repository is the Ghost theme and the information architecture behind that site.",
+      "images": [
+        "images/portfolio/mannyroy/p1.jpg"
+      ],
+      "url": "https://www.mannyroy.com/",
+      "technologies": [
+        {
+          "class": "devicon-ghost-original",
+          "name": "Ghost"
+        },
+        {
+          "class": "devicon-handlebars-plain",
+          "name": "Handlebars"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Eastward",
+      "startDate": "2026",
+      "description": "A guide to Eastern Prince Edward Island: communities, places, and a few ways to plan a trip. I built it as a portfolio project, and the site says so. The inquiry form does not send anything.",
+      "images": [
+        "images/portfolio/eastward/p1.jpg"
+      ],
+      "url": "https://eastward.amandadroy.com/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "title": "Canadian AI-Driven RFP Finder",
+      "startDate": "2026",
+      "description": "A Python CLI for Canadian public-sector tenders. It fetches CanadaBuys notices, keeps a local record of amendments, and scores them against a business profile. When a model helps rank a notice, the reason is still something you can read.",
+      "images": [
+        "images/portfolio/pyshelf/p1.jpg",
+        "images/portfolio/pyshelf/p2.jpg",
+        "images/portfolio/pyshelf/p3.jpg",
+        "images/portfolio/pyshelf/p4.jpg"
+      ],
+      "url": "https://github.com/amandadr/rfp-finder",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-sqlite-plain",
+          "name": "SQLite"
+        }
+      ]
+    },
+    {
+      "title": "WooCommerce to Trexity",
+      "startDate": "2026",
+      "description": "A WordPress plugin that books a Trexity delivery after an eligible WooCommerce order is paid. It checks the cart and the shipping method, skips orders that were already submitted, and writes the shipment, tracking, or the skip reason back onto the order.",
+      "images": [
+        "images/portfolio/photoLabs/p1.jpg",
+        "images/portfolio/photoLabs/p2.jpg",
+        "images/portfolio/photoLabs/p3.jpg"
+      ],
+      "url": "https://github.com/amandadr/woo-trexity-plugin",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        }
+      ]
+    },
+    {
+      "title": "Organized Chaos Arts",
+      "startDate": "2026",
+      "description": "A Next.js and Sanity site for an arts organization I am co-founding. Public pages, a written-down content model, and design tokens, so later membership work has a structure to land in.",
+      "images": [
+        "images/portfolio/oca/p1.jpg",
+        "images/portfolio/oca/p2.jpg",
+        "images/portfolio/oca/p3.jpg"
+      ],
+      "url": "https://organizedchaosarts.ca/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-sanity-plain",
+          "name": "Sanity"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Merchant",
+      "startDate": "2026",
+      "description": "A noncommercial Hyrule shop and field guide. A snapshot of the compendium API is validated at build time, and the prices, stock, and recipes I invented stay out of the source data. Nothing is actually for sale, and it is not affiliated with Nintendo.",
+      "images": [
+        "images/portfolio/merchant/p1.jpg",
+        "images/portfolio/merchant/p2.jpg",
+        "images/portfolio/merchant/p3.jpg"
+      ],
+      "url": "https://github.com/amandadr/hyrule-merchant",
+      "technologies": [
+        {
+          "class": "devicon-astro-plain",
+          "name": "Astro"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "WordPress Venue Management",
+      "startDate": "2026",
+      "description": "A plugin for venues with a public programme: trivia, readings, seasonal dates. Each date is an event, related dates are a series, and a saved rule fills the calendar ahead. Visitors get an archive, an iCal download, and Event structured data.",
+      "images": [
+        "images/portfolio/DDQ/p1.jpg",
+        "images/portfolio/DDQ/p2.jpg",
+        "images/portfolio/DDQ/p3.jpg"
+      ],
+      "url": "https://github.com/amandadr/wordpress-venue-management",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        }
+      ]
+    },
+    {
+      "title": "Portfolio (This Website)",
+      "startDate": "2024",
+      "description": "A personalized React SPA utilizing Bootstrap and JQuery for showing off my achievements and keeping my adoring fans up to date ;) Learning about data modularity was a lot of fun, and taught me the value of thinking modularly from the beginning of a project! (Live: You're here!)",
+      "images": [
+        "images/portfolio/portfolio/p1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SASS"
+        }
+      ]
+    },
     {
       "title": "Lift Off",
       "startDate": "2024",
@@ -62,32 +252,6 @@
       ]
     },
     {
-      "title": "Pyshelf",
-      "startDate": "2024",
-      "description": "An **IN PROGRESS** Python-based web app that utilizes the Google Books API to track reading progress and discover new books. This is my first Python app! I also learned a lot about Flask and SQLAlchemy while building. There are many more features to come! (Live in link)",
-      "images": [
-        "images/portfolio/pyshelf/p1.jpg",
-        "images/portfolio/pyshelf/p2.jpg",
-        "images/portfolio/pyshelf/p3.jpg",
-        "images/portfolio/pyshelf/p4.jpg"
-      ],
-      "url": "https://pyshelf.amandadroy.com/",
-      "technologies": [
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        },
-        {
-          "class": "devicon-flask-original",
-          "name": "Flask"
-        },
-        {
-          "class": "devicon-sqlalchemy-plain",
-          "name": "SQLAlchemy"
-        }
-      ]
-    },
-    {
       "title": "Hyrule Compendium",
       "startDate": "2024",
       "description": "A React SPA that features interactive browsing of items found in The Legend of Zelda: Breath of the Wild. This is app utilizes data from a publically hosted API and a Lambda hosted, Python crafted fuzzysearch function! (Live in link)",
@@ -122,26 +286,6 @@
       ]
     },
     {
-      "title": "Portfolio (This Website)",
-      "startDate": "2024",
-      "description": "A personalized React SPA utilizing Bootstrap and JQuery for showing off my achievements and keeping my adoring fans up to date ;) Learning about data modularity was a lot of fun, and taught me the value of thinking modularly from the beginning of a project! (Live: You're here!)",
-      "images": ["images/portfolio/portfolio/p1.jpg"],
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-jquery-plain",
-          "name": "jQuery"
-        },
-        {
-          "class": "devicon-sass-plain",
-          "name": "SASS"
-        }
-      ]
-    },
-    {
       "title": "Petome",
       "startDate": "2023",
       "description": "The most fun I've had creating a web app (so far!). I deepened my understanding of React state, reducers, and hooks, as well as asynchronous data handling throughout this project. I'm proud of the clean, simple interface and the seamlessness of play- but there's still a long way to go with this one! (Live in link)",
@@ -165,60 +309,41 @@
           "name": "PostgreSQL"
         }
       ]
-    },
-    {
-      "title": "PhotoLabs",
-      "startDate": "2023",
-      "description": "My first SPA using React which mimics a very simple Instagram. I learned a lot about React state and using components to create a clean, simple interface using modals. I also learned a lot about the importance of planning and wireframing before diving into code, and even experienced my first love-hate relationship with a button.",
-      "images": [
-        "images/portfolio/photoLabs/p1.jpg",
-        "images/portfolio/photoLabs/p2.jpg",
-        "images/portfolio/photoLabs/p3.jpg"
-      ],
-      "url": "https://github.com/amandadr/photolabs",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Express"
-        }
-      ]
-    },
-    {
-      "title": "DevvyDuckQuacks(DDQ)",
-      "startDate": "2023",
-      "description": "One of the first apps I was working on during my diploma. I had to work with a teammate to build a functioning resource wall (ie Pinterest) under a timecrunch deadline of one week. I've learned a lot about communicating since then!",
-      "images": [
-        "images/portfolio/DDQ/p1.jpg",
-        "images/portfolio/DDQ/p2.jpg",
-        "images/portfolio/DDQ/p3.jpg"
-      ],
-      "url": "https://github.com/amandadr/midterm-project",
-      "technologies": [
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Node.js"
-        },
-        {
-          "class": "devicon-sass-plain",
-          "name": "SASS"
-        },
-        {
-          "class": "devicon-postgresql-plain",
-          "name": "PostgreSQL"
-        }
-      ]
     }
   ],
   "experience": [
     {
+      "company": "Manny Roy Consulting",
+      "title": "Consultant",
+      "years": "2026 - Present",
+      "mainTech": [
+        "WordPress",
+        "Ghost",
+        "Python",
+        "Technical SEO"
+      ],
+      "technologies": [
+        "Ghost",
+        "WordPress",
+        "Python",
+        "TypeScript",
+        "Technical SEO",
+        "Search Console",
+        "GA4"
+      ]
+    },
+    {
       "company": "MacMillan Search",
       "title": "Junior SEO Specialist and Automation Developer",
       "years": "04.2024 - Present",
-      "mainTech": ["TypeScript", "Python", "React", "Django", "Google Cloud Platform", "SEO Tools"],
+      "mainTech": [
+        "TypeScript",
+        "Python",
+        "React",
+        "Django",
+        "Google Cloud Platform",
+        "SEO Tools"
+      ],
       "technologies": [
         "TypeScript",
         "React",
@@ -248,7 +373,9 @@
       "company": "DataAnnotation Tech",
       "title": "Machine Learning Developer",
       "years": "01.2024 - Present",
-      "mainTech": ["JavaScript"],
+      "mainTech": [
+        "JavaScript"
+      ],
       "technologies": [
         "JavaScript",
         "Ruby",
@@ -264,7 +391,9 @@
       "company": "Scale AI",
       "title": "Machine Learning Programmer",
       "years": "01.2024 - Present",
-      "mainTech": ["JavaScript"],
+      "mainTech": [
+        "JavaScript"
+      ],
       "technologies": [
         "JavaScript",
         "Ruby",
@@ -279,7 +408,9 @@
       "company": "Lighthouse Labs",
       "title": "Student - Full-Stack Developer",
       "years": "09.2023 - 12.2023",
-      "mainTech": ["JavaScript"],
+      "mainTech": [
+        "JavaScript"
+      ],
       "technologies": [
         "JavaScript",
         "Ruby",

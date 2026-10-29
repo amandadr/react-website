@@ -1,8 +1,18 @@
 {
   "basic_info": {
     "name": "Amanda Roy",
-    "titles": ["Full-Stack Developer", "Junior SEO Specialist", "Automation Engineer"],
+    "titles": [
+      "Manny Roy Consulting",
+      "Technical SEO",
+      "Automation",
+      "Web Systems"
+    ],
     "social": [
+      {
+        "name": "mannyroy",
+        "url": "https://www.mannyroy.com/",
+        "class": "fas fa-globe"
+      },
       {
         "name": "github",
         "url": "https://github.com/amandadr",
@@ -27,11 +37,6 @@
         "name": "email",
         "url": "mailto: amandadroy@gmail.com",
         "class": "fas fa-envelope"
-      },
-      {
-        "name": "resume",
-        "url": "https://resume.amandadroy.com/",
-        "class": "fas fa-file-alt"
       }
     ],
     "image": "myProfile.jpg"
@@ -85,6 +90,18 @@
       {
         "name": "Next.js",
         "class": "devicon-nextjs-plain"
+      },
+      {
+        "name": "Astro",
+        "class": "devicon-astro-plain"
+      },
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain"
+      },
+      {
+        "name": "WordPress",
+        "class": "devicon-wordpress-plain"
       },
       {
         "name": "Express",

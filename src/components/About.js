@@ -12,6 +12,7 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
+      var featured = this.props.resumeBasicInfo.featured;
     }
 
     return (
@@ -76,6 +77,19 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    {featured && (
+                      <>
+                        <br />
+                        <br />
+                        <a
+                          href={featured.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {featured.label}
+                        </a>
+                      </>
+                    )}
                   </div>
                 </div>
               </div>
