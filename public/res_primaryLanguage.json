@@ -65,10 +65,7 @@
       "startDate": "2026",
       "description": "A Python CLI for Canadian public-sector tenders. It fetches CanadaBuys notices, keeps a local record of amendments, and scores them against a business profile. When a model helps rank a notice, the reason is still something you can read.",
       "images": [
-        "images/portfolio/pyshelf/p1.jpg",
-        "images/portfolio/pyshelf/p2.jpg",
-        "images/portfolio/pyshelf/p3.jpg",
-        "images/portfolio/pyshelf/p4.jpg"
+        "images/portfolio/rfp/p1.jpg"
       ],
       "url": "https://github.com/amandadr/rfp-finder",
       "technologies": [
@@ -87,9 +84,7 @@
       "startDate": "2026",
       "description": "A WordPress plugin that books a Trexity delivery after an eligible WooCommerce order is paid. It checks the cart and the shipping method, skips orders that were already submitted, and writes the shipment, tracking, or the skip reason back onto the order.",
       "images": [
-        "images/portfolio/photoLabs/p1.jpg",
-        "images/portfolio/photoLabs/p2.jpg",
-        "images/portfolio/photoLabs/p3.jpg"
+        "images/portfolio/trexity/p1.jpg"
       ],
       "url": "https://github.com/amandadr/woo-trexity-plugin",
       "technologies": [
@@ -162,9 +157,7 @@
       "startDate": "2026",
       "description": "A plugin for venues with a public programme: trivia, readings, seasonal dates. Each date is an event, related dates are a series, and a saved rule fills the calendar ahead. Visitors get an archive, an iCal download, and Event structured data.",
       "images": [
-        "images/portfolio/DDQ/p1.jpg",
-        "images/portfolio/DDQ/p2.jpg",
-        "images/portfolio/DDQ/p3.jpg"
+        "images/portfolio/venue/p1.jpg"
       ],
       "url": "https://github.com/amandadr/wordpress-venue-management",
       "technologies": [
